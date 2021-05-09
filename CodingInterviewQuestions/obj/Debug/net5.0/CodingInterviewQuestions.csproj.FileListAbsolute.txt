@@ -1,0 +1,16 @@
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\bin\Debug\net5.0\CodingInterviewQuestions.exe
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\bin\Debug\net5.0\CodingInterviewQuestions.deps.json
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\bin\Debug\net5.0\CodingInterviewQuestions.runtimeconfig.json
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\bin\Debug\net5.0\CodingInterviewQuestions.runtimeconfig.dev.json
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\bin\Debug\net5.0\CodingInterviewQuestions.dll
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\bin\Debug\net5.0\ref\CodingInterviewQuestions.dll
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\bin\Debug\net5.0\CodingInterviewQuestions.pdb
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\obj\Debug\net5.0\CodingInterviewQuestions.csprojAssemblyReference.cache
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\obj\Debug\net5.0\CodingInterviewQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\obj\Debug\net5.0\CodingInterviewQuestions.AssemblyInfoInputs.cache
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\obj\Debug\net5.0\CodingInterviewQuestions.AssemblyInfo.cs
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\obj\Debug\net5.0\CodingInterviewQuestions.csproj.CoreCompileInputs.cache
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\obj\Debug\net5.0\CodingInterviewQuestions.dll
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\obj\Debug\net5.0\ref\CodingInterviewQuestions.dll
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\obj\Debug\net5.0\CodingInterviewQuestions.pdb
+C:\Users\kotem\source\repos\CodingInterviewQuestions\CodingInterviewQuestions\obj\Debug\net5.0\CodingInterviewQuestions.genruntimeconfig.cache
