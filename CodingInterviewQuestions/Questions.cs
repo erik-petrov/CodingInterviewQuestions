@@ -50,7 +50,13 @@ namespace CodingInterviewQuestions
         }
         static public void FourthQuestion()
         {
-            Console.WriteLine("YetToBeDone");
+            Console.WriteLine("Please enter 3 numbers: ");
+            int first = Convert.ToInt32(Console.ReadLine());
+            int second = Convert.ToInt32(Console.ReadLine());
+            int third = Convert.ToInt32(Console.ReadLine());
+            int[] numbers = { first, second, third };
+            Array.Sort(numbers);
+            Console.WriteLine($"Maximum element is: {numbers[2]} and the minimum is: {numbers[0]}");
         }
         static public void FifthQuestion()
         {
