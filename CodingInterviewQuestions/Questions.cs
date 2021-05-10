@@ -70,17 +70,11 @@ namespace CodingInterviewQuestions
         }
         static public void SixthQuestion()
         {
-            int total = 0;
             Console.WriteLine("Please enter 3 numbers: ");
             int first = Convert.ToInt32(Console.ReadLine());
             int second = Convert.ToInt32(Console.ReadLine());
             int third = Convert.ToInt32(Console.ReadLine());
-            int[] numbers = { first, second, third };
-            foreach (var i in numbers)
-            {
-                total += i;
-            }
-            Console.WriteLine($"All three added numbers together total to: {total}");
+            Console.WriteLine($"All three added numbers together total to: {first+second+third}");
         }
         static public void SeventhQuestion()
         {
